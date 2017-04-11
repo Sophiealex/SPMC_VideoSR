@@ -3,6 +3,8 @@ by [Xin Tao](http://www.xtao.website), Hongyun Gao, [Renjie Liao](http://www.cs.
 
 Code and data will be available upon paper acceptance.
 
+Here we provide several video results ([download](https://www.dropbox.com/s/7e77bjvtclnssgl/video_results.rar?dl=0))
+
 We are glad to hear if you have any suggestions, questions about implementation or sequences for testing.
 
 ## Citation
