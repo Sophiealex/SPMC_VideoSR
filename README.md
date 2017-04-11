@@ -1,7 +1,7 @@
 # Detail-revealing Deep Video Super-resolution
 by [Xin Tao](http://www.xtao.website), Hongyun Gao, [Renjie Liao](http://www.cs.toronto.edu/~rjliao/), [Jue Wang](http://juew.org), [Jiaya Jia](http://www.cse.cuhk.edu.hk/leojia/). ([pdf](https://arxiv.org/abs/1704.02738))
 
-Code and data will be available upon acceptance.
+Code and data will be available upon paper acceptance.
 
 We are glad to hear if you have any suggestions, questions about implementation or sequences for testing.
 
